@@ -12,7 +12,6 @@
 
 - **B.Tech in Computer Science & Engineering (AI)**
   - University Institute of Engineering and Technology, CSJMU, Kanpur (2022–2026)
-  - GPA: 7.50
 
 ---
 
