@@ -82,9 +82,14 @@ Auth:         JWT · Passport.js · bcrypt · OAuth2 · Nodemailer
 
 
 ---
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-darshi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/milliondreamsblog)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatsan23@gmail.com)
 
 
-  Minimal. Focused. Impactful.  Thanks for visiting!
+ <div align="center"> <!-- GitHub Stats Card --> <img src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&theme=calm&hide_border=true&include_all_commits=true&count_private=true" width="340" alt="Akshat's GitHub Stats" /> <!-- GitHub Streak Stats --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=milliondreamsblog&theme=calm&hide_border=true" width="340" alt="Akshat's GitHub Streak" /> <!-- Top Languages Card --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milliondreamsblog&theme=calm&hide_border=true&layout=compact" width="275" alt="Top Languages" /> </div>
 
 
 ---
