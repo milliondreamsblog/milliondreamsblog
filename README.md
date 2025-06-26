@@ -57,8 +57,8 @@ Auth:         JWT · Passport.js · bcrypt · OAuth2 · Nodemailer
 
 ### Connect
 
-[Portfolio](https://midassafe.vercel.app/)  
-[Resume](https://drive.google.com/file/d/1MdwtskxZx5_aKeqrCXquc_smaXfe6mg_/view?usp=drivesdk)  
+[Portfolio](https://ehm-pi.vercel.app/)  
+[Resume](https://drive.google.com/file/d/18gyff5kWQmfjADUzKGtDzp00dk_1AkHL/view?usp=drivesdk)  
 [GitHub](https://github.com/milliondreamsblog)  
 [LinkedIn](https://www.linkedin.com/in/akshat-darshi)  
 [Email](mailto:akshatsan23@gmail.com)
