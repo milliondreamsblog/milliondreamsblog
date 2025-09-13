@@ -1,8 +1,8 @@
-[![An image of @getlost01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/getlost01)](https://holopin.io/@getlost01)
+
 
 <h2 align="center">Hi 👋, I'm AKshat Darshi</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+milliondreamsblog%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
@@ -17,22 +17,22 @@
 --- 
 
 ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/getlost01/github-stats">
-<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img width="400" src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=milliondreamsblog&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=milliondreamsblog&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/milliondreamsblog/github-stats">
+<img width="400" src="https://milliondreamsblog.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://milliondreamsblog.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
 <!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="my overview" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
+  <img alt="my overview" src="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/overview.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="my languages" src="https://github.com/getlost01/github-stats.github.io/blob/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
+  <img alt="my languages" src="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/languages.svg">
 </picture> -->
 </a>
 
@@ -42,32 +42,32 @@
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
-* [Intelli-Kanban](https://github.com/getlost01/Intelli-Kanban)
-* [Web Tools](https://github.com/getlost01/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
+* [Intelli-Kanban](https://github.com/milliondreamsblog/Intelli-Kanban)
+* [Web Tools](https://github.com/milliondreamsblog/web-tools-gl01)
+* [Blogging Web APIs](https://github.com/milliondreamsblog/Postgre-APIs-App)
+* [Inventory App](https://github.com/milliondreamsblog/InventoryAppFrontend)
+* [UIET Connect](https://github.com/milliondreamsblog/UietConnect)
+* [Meal Planner](https://github.com/milliondreamsblog/meal-planner-API)
+* [Voting Management System](https://github.com/milliondreamsblog/VotingManagmentSystem)
+* [ABitShort](https://github.com/milliondreamsblog/linkshortner)
+* [File Share App](https://github.com/milliondreamsblog/dlink-share)
 
 #### Web Store Extensions 
 
-* [Color Tools and Dropper](https://github.com/getlost01/color-picker-updated)
-* [Site Saver](https://github.com/getlost01/site-saver)
-* [CP Calendar](https://github.com/getlost01/cp-contest-calender)
+* [Color Tools and Dropper](https://github.com/milliondreamsblog/color-picker-updated)
+* [Site Saver](https://github.com/milliondreamsblog/site-saver)
+* [CP Calendar](https://github.com/milliondreamsblog/cp-contest-calender)
 
 #### Frontend Projects :
 
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
+* [Country Search](https://github.com/milliondreamsblog/country-search)
+* [Portfolio Site](https://github.com/milliondreamsblog/portfolio.github.io)
+* [Quiz App Templates](https://github.com/milliondreamsblog/quiz-template)
 
 #### GitBook
 * [GFG-POTD](https://gl01.gitbook.io/gfg-editorials)
 
-<a href="https://github.com/getlost01/getlost01/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
+<a href="https://github.com/milliondreamsblog/milliondreamsblog/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
 ---
 
@@ -181,9 +181,9 @@ Python                   1 repo              ░░░░░░░░░░░�
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -191,10 +191,10 @@ Python                   1 repo              ░░░░░░░░░░░�
 ### 🔗 Social info
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/aagam-jain-gl01/">
+    <a href="https://www.linkedin.com/in/akshat-darshi-88742b252">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=akshatsan23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <a href="https://portfolio-de-aagam.netlify.app/">
