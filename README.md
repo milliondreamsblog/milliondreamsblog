@@ -38,7 +38,7 @@
 
 --- 
 
-
+<!--
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
@@ -65,7 +65,7 @@
 * [Quiz App Templates](https://github.com/milliondreamsblog/quiz-template)
 
 #### GitBook
-* [GFG-POTD](https://gl01.gitbook.io/gfg-editorials)
+* [GFG-POTD](https://gl01.gitbook.io/gfg-editorials) -->
 
 <a href="https://github.com/milliondreamsblog/milliondreamsblog/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
 
@@ -197,7 +197,7 @@ Python                   1 repo              ░░░░░░░░░░░�
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=akshatsan23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://portfolio-de-aagam.netlify.app/">
+    <a href="https://ehm-pi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://gl01.gitbook.io/gfg-editorials">
