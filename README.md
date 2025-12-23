@@ -1,113 +1,67 @@
+<h2 align="center">Hi 👋, I'm Akshat Darshi</h2>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+milliondreamsblog%2C+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
 
-<h2 align="center">Hi 👋, I'm AKshat Darshi</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+milliondreamsblog%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://drive.google.com/file/d/1mhPvKRaGeo5JdmGLORDoCjzKWaGB_HSI/view">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-green?style=for-the-badge&logo=googledrive">
+  </a>
+</p>
 
 ---
+
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech CSE Final year student at UIET Kanpur
+- 👨‍💻 B.Tech CSE Final Year Student at **UIET Kanpur**
+- 🔭 Currently working on **ClimAgro Analytics** & focusing on **DSA**
+- 🌱 Learning & building with **TypeScript, Next.js, Full-Stack tools**
+- ⚡ Fun fact: **40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT**
 
-- 🔭 I’m currently working on **ClimAgro Analytics** & focusing on **DSA**
+---
 
-- 🌱 I’m currently developing and learning **Typescript, Next.js, and other full-stack tools.**
+### 🔥 GitHub Stats
 
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&show_icons=true&count_private=true&theme=react" />
+  <img width="400" src="https://streak-stats.demolab.com?user=milliondreamsblog&theme=react" />
+</p>
 
---- 
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=milliondreamsblog&theme=react-dark&area=true" />
+</p>
 
-### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=milliondreamsblog&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=milliondreamsblog&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/milliondreamsblog/github-stats">
-<img width="400" src="https://milliondreamsblog.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img width="400" src="https://milliondreamsblog.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<p align="center">
+  <img width="400" src="https://raw.githubusercontent.com/milliondreamsblog/github-stats.github.io/master/generated/overview.svg#gh-dark-mode-only" />
+  <img width="400" src="https://raw.githubusercontent.com/milliondreamsblog/github-stats.github.io/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="my overview" src="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/overview.svg">
-</picture>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="my languages" src="https://github.com/milliondreamsblog/github-stats.github.io/blob/master/generated/languages.svg">
-</picture> -->
+### 🚀 Projects
+<a href="https://github.com/milliondreamsblog/milliondreamsblog/tree/main/projects">
+  <kbd> <br> View all of my projects <br> </kbd>
 </a>
 
---- 
-
-<!--
-### ⚙️ My Projects 
-
-#### Full-Stack Projects :
-* [Intelli-Kanban](https://github.com/milliondreamsblog/Intelli-Kanban)
-* [Web Tools](https://github.com/milliondreamsblog/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/milliondreamsblog/Postgre-APIs-App)
-* [Inventory App](https://github.com/milliondreamsblog/InventoryAppFrontend)
-* [UIET Connect](https://github.com/milliondreamsblog/UietConnect)
-* [Meal Planner](https://github.com/milliondreamsblog/meal-planner-API)
-* [Voting Management System](https://github.com/milliondreamsblog/VotingManagmentSystem)
-* [ABitShort](https://github.com/milliondreamsblog/linkshortner)
-* [File Share App](https://github.com/milliondreamsblog/dlink-share)
-
-#### Web Store Extensions 
-
-* [Color Tools and Dropper](https://github.com/milliondreamsblog/color-picker-updated)
-* [Site Saver](https://github.com/milliondreamsblog/site-saver)
-* [CP Calendar](https://github.com/milliondreamsblog/cp-contest-calender)
-
-#### Frontend Projects :
-
-* [Country Search](https://github.com/milliondreamsblog/country-search)
-* [Portfolio Site](https://github.com/milliondreamsblog/portfolio.github.io)
-* [Quiz App Templates](https://github.com/milliondreamsblog/quiz-template)
-
-#### GitBook
-* [GFG-POTD](https://gl01.gitbook.io/gfg-editorials) -->
-
-<a href="https://github.com/milliondreamsblog/milliondreamsblog/tree/main/projects"><kbd> <br> Veiw all of my projects <br> </kbd></a>
-
 ---
 
-### :hammer_and_wrench: Languages and Tools 
+### 🛠️ Languages & Tools
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226094099-12fc633e-af1f-474b-ae66-951b09881305.png" alt="workbench" width="40" height="40"/>&nbsp;   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>&nbsp;        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" alt="jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092991-4c479dbd-e253-4bec-ba2c-598206a7848d.png" alt="clarity" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091920-a6b75979-6f7f-427f-8a95-c6fe279929f2.png" alt="swagger" width="40" height="40"/>&nbsp;
-  <img src="https://svgshare.com/i/5xY.svg" alt="heroku" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226093710-b6a36dcd-8a66-4a1b-8ef2-1faeb0b6f3e2.png" alt="canva" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </div>
 
 ---
@@ -115,97 +69,40 @@
 ### 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C539%20hrs%2038%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                809 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-🌆 Daytime                1508 commits        ███████████░░░░░░░░░░░░░░   42.88 % 
-🌃 Evening                821 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌙 Night                  379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   533 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Wednesday                659 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Thursday                 390 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Friday                   470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Saturday                 417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Sunday                   689 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-CSS                      1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-HTML                     1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████████████████   98.67 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-
-💻 Operating System: 
-Mac                      4 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-C++                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-```
-
-
-
-
- Last Updated on 13/09/2025 00:49:41 UTC
 <!--END_SECTION:waka-->
+
+> ⚠️ Requires WakaTime GitHub Action to auto-update.
 
 ---
 
-### 🐍 Contribution snake
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github snake" src="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-### 🔗 Social info
+### 🔗 Social Links
 
-<div id="badges">
-    <a href="https://www.linkedin.com/in/akshat-darshi-88742b252">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=akshatsan23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-    <a href="https://ehm-pi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <a href="https://gl01.gitbook.io/gfg-editorials">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
-    </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-darshi-88742b252">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:akshatsan23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://ehm-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1mhPvKRaGeo5JdmGLORDoCjzKWaGB_HSI/view">
+    <img src="https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=googledrive"/>
+  </a>
+</p>
 
 ---
 
-### 👀 Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+### 👀 Visitors
+<img src="https://komarev.com/ghpvc/?username=milliondreamsblog&style=flat-square&color=blue" />
