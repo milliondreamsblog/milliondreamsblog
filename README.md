@@ -21,18 +21,23 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&show_icons=true&count_private=true&theme=react" />
-  <img width="400" src="https://streak-stats.demolab.com?user=milliondreamsblog&theme=react" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&show_icons=true&theme=react&hide_border=true"
+    width="400"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=milliondreamsblog&theme=react&hide_border=true"
+    width="400"
+  />
 </p>
 
 <p align="center">
-  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=milliondreamsblog&theme=react-dark&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=milliondreamsblog&theme=react-dark&area=true&hide_border=true"
+    width="830"
+  />
 </p>
 
-<p align="center">
-  <img width="400" src="https://raw.githubusercontent.com/milliondreamsblog/github-stats.github.io/master/generated/overview.svg#gh-dark-mode-only" />
-  <img width="400" src="https://raw.githubusercontent.com/milliondreamsblog/github-stats.github.io/master/generated/languages.svg#gh-dark-mode-only" />
-</p>
 
 ---
 
