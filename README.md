@@ -20,7 +20,7 @@
 |  Toolkit                | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) |
 |  Frontend              | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) |
 |  Community             | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@theracecondition) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/f8bKmwqWkn) |
-| Social Links         | [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdityaPati79454) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityapatil24680) [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://minimalistbook.com/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-patil-260a631b2/) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PythonHacker24) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityapatil24680@gmail.com) [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22489362/aditya-patil) [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Pyth0nHack3r/) ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) |
+| Social Links         | [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://github.com/milliondreamsblog) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/milliondreamsblog) [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/milliondreamsblog) |
 
 ---
 
@@ -30,57 +30,54 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
-🔥 <b> I am a System Design Expert and Go developer </b> *(from my GitHub profile)* :contentReference[oaicite:0]{index=0}
+🔥 <b> I am a Full Stack Developer & Systems Explorer </b> — building scalable apps & tooling. :contentReference[oaicite:0]{index=0}
 
-🥷 <b> I am an Ethical Hardware and Computer Hacker </b> :contentReference[oaicite:1]{index=1}
+🥷 <b> Ethical Hacker & Low-Level Enthusiast</b> — passionate about systems and security. :contentReference[oaicite:1]{index=1}
 
-🛠️ <b> I love learning Low Level ❤️ RUST </b> :contentReference[oaicite:2]{index=2}
+🛠️ <b> I enjoy learning & building with Go, Rust, TypeScript, and Python</b>. :contentReference[oaicite:2]{index=2}
 
-🔍 <b> I do Reverse Engineering of Electronic Circuits & Embedded Software </b> :contentReference[oaicite:3]{index=3}
+🔍 <b> I love automation, embedded systems, and software engineering</b> — always iterating & improving. :contentReference[oaicite:3]{index=3}
 
-💾 <b> I build projects, emulator experiments & hardware tools </b> :contentReference[oaicite:4]{index=4}
-
-Here is my [CV](https://drive.google.com/file/d/1v-4dKEO0tt9ypu519-vnuBlXACWWsdQ7/view?usp=sharing)
+Here is my [Resume](https://drive.google.com/file/d/1Uq3T3hDUdxfIOdb3BwA-RIBp6v2cDle4/view?usp=sharing)
 
 ---
 
 ## ⭐️ My Projects ⚡️
 
-- **The Minimalist’s Book** – open-source blog / knowledge base 🧠 :contentReference[oaicite:5]{index=5}  
-- **Fault Injector for ESP8266 & Arduino** – hardware toolkit 🔌 :contentReference[oaicite:6]{index=6}  
-- **Arch Linux Installation Guide** – user-friendly Arch setup 📦 :contentReference[oaicite:7]{index=7}  
-- **Raspberry Pi GPIO Driver** – kernel-level GPIO control driver 🛠 :contentReference[oaicite:8]{index=8}
+*Feel free to list your own project highlights here manually.*
+
+- **EHM_FT** — Full stack tool & framework SSG. :contentReference[oaicite:4]{index=4}  
+- **AskyourPDF** — Python PDF interaction app. :contentReference[oaicite:5]{index=5}  
+- **QuickPay** — JavaScript payment UI. :contentReference[oaicite:6]{index=6}  
+- **neuAnchor** — JavaScript UI component set. :contentReference[oaicite:7]{index=7}
 
 ---
 
-## 📊 GitHub Stats (Even I’m Surprised): 📈
+## 📊 GitHub Stats 📈
 
-![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PythonHacker24&theme=github_dark)
-
-![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PythonHacker24&theme=github_dark)  
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PythonHacker24&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milliondreamsblog&theme=github_dark)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milliondreamsblog&theme=github_dark)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milliondreamsblog&theme=github_dark)
 
 ---
 
 ## 🤔 FAQs 🤔
 
-#### Which Code Editor do I use?
-Neovim — of course.
+#### Which Code Editor do I use?  
+Neovim — minimal, fast, and configurable.
 
-#### Which OS do I use?
-I prefer Arch Linux; highly customizable and minimal. :contentReference[oaicite:9]{index=9}
+#### Which OS do I use?  
+I primarily use Arch Linux for daily development.
 
-#### What else do I explore?
-Security, hardware, low-level systems, and legacy tech.
+#### What drives me?  
+Curiosity, systems building, secure tooling, and elegant workflows.
 
 ---
 
-## 📚 My Favourite Books on Computing ✍️
+## 📚 Books I Recommend ✍️
 
-*Linux Kernel Development (Robert Love)*  
-*Hacking: The Art of Exploitation (Jon Erickson)*  
-*Linux in a Nutshell (Siever, Figgins, Love & Robbins)*  
-*Linux Kernel in a Nutshell (Greg Kroah-Hartman)*  
-*The Art of Electronics (Paul Horowitz & Winfield Hill)*  
-*Nmap Cookbook (Nicholas Marsh)*
+*Linux Kernel Development* — Robert Love  
+*Hacking: The Art of Exploitation* — Jon Erickson  
+*The Art of Electronics* — Paul Horowitz & Winfield Hill  
+*Linux in a Nutshell* — Siever, Figgins, Love & Robbins
 
