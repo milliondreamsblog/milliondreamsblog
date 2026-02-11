@@ -1,96 +1,67 @@
-<h2 align="center">Hi 👋, I'm Akshat Darshi</h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+milliondreamsblog%2C+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
+<!-- ========== HEADER ========== -->
+<h1 align="center">❄️ Hacker - ✨ Akshat Darshi ✨ - Developer ❄️</h1>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/15-8Oe-wkTMD8bTqI4pEpxHxdNOZhRMNU/view">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-green?style=for-the-badge&logo=googledrive">
-  </a>
+  <img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif" alt="Dev GIF">
+</p>
+
+<h2 align="center"> Umm. ya, I kinda like <b>JavaScript & TypeScript</b></h2>
+
+<p align="center"><b>“I don't let my schooling interfere with my education.”</b></p>
+
+<p align="center">
+  <a href="https://ehm-pi.vercel.app/">Portfolio</a> | 
+  <a href="https://github.com/milliondreamsblog">GitHub</a> |
+  <a href="mailto:akshatsan23@gmail.com">Email Me</a>
 </p>
 
 ---
 
-### 👦 About Me
-- 👨‍💻 B.Tech CSE Final Year Student at **UIET Kanpur**
-- 🔭 Currently working on **ClimAgro Analytics** & focusing on **DSA**
-- 🌱 Learning & building with **TypeScript, Next.js, Full-Stack tools**
-- ⚡ Fun fact: **40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT**
-
----
-
-### 🔥 GitHub Stats
-
+<!-- ========== BADGES ========== -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=milliondreamsblog&show_icons=true&theme=react&hide_border=true"
-    width="400"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=milliondreamsblog&theme=react&hide_border=true"
-    width="400"
-  />
+  <!-- Tech Stack -->
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+  <br><br>
+  ![](https://github-readme-stats.vercel.app/api?username=milliondreamsblog&theme=github_dark&show_icons=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=milliondreamsblog&theme=github_dark)
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=milliondreamsblog&theme=react-dark&area=true&hide_border=true"
-    width="830"
-  />
-</p>
+---
 
+<!-- ========== ABOUT ME ========== -->
+## 🔎 About Me
+
+🔥 **Full-Stack Developer at ClimAgro Analytics** – building real-world web apps with Node/Next.js/React :contentReference[oaicite:0]{index=0}  
+🤖 **AI/ML Enthusiast** – passionate about intelligent interfaces & automation :contentReference[oaicite:1]{index=1}  
+🧠 Startup Lover & Problem Solver — I love taking ideas from concept → production :contentReference[oaicite:2]{index=2}  
+✌️ Debugs while sleeping 😴 :contentReference[oaicite:3]{index=3}
+
+**Currently:**  
+- 🚀 Building scalable web applications  
+- 📦 Focusing on **TypeScript, Next.js, Node.js & Full-Stack tooling**
+- 💻 Optimizing dev workflows and automation pipelines
 
 ---
 
-### 🚀 Projects
-<a href="https://github.com/milliondreamsblog/milliondreamsblog/tree/main/projects">
-  <kbd> <br> View all of my projects <br> </kbd>
-</a>
+<!-- ========== EXPERIENCE ========== -->
+## 💼 Experience & Projects
+
+### 🌐 Work
+- 🔭 **Full-Stack Developer @ ClimAgro Analytics** *(Apr 2025 – Present)* — building internal dashboards and full-stack solutions :contentReference[oaicite:4]{index=4}  
+- 🤖 **ML Research Intern @ Maulana Azad National Institute of Technology** *(May 2024 – Jul 2024)* — research + prototyping :contentReference[oaicite:5]{index=5}
+
+### 📦 Notable Projects
+- **EHM-PI** — Your personal portfolio site (live)  
+- **GitHub Projects** — All code & experiments: https://github.com/milliondreamsblog?tab=repositories
 
 ---
 
-### 🛠️ Languages & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</div>
-
----
-
-### 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> ⚠️ Requires WakaTime GitHub Action to auto-update.
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github snake" src="https://milliondreamsblog.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 🔗 Social Links
+<!-- ========== SOCIAL LINKS ========== -->
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-darshi-88742b252">
@@ -102,12 +73,36 @@
   <a href="https://ehm-pi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1mhPvKRaGeo5JdmGLORDoCjzKWaGB_HSI/view">
+  <a href="https://drive.google.com/file/d/15-8Oe-wkTMD8bTqI4pEpxHxdNOZhRMNU/view">
     <img src="https://img.shields.io/badge/Resume-PDF-green?style=for-the-badge&logo=googledrive"/>
   </a>
 </p>
 
 ---
 
-### 👀 Visitors
-<img src="https://komarev.com/ghpvc/?username=milliondreamsblog&style=flat-square&color=blue" />
+## ⭐ Popular Tools & Skills
+
+| Category | Tools/Platforms |
+|----------|-----------------|
+| Languages | JavaScript, TypeScript, Node.js, Python |
+| Frontend | React, Next.js, Tailwind CSS |
+| Backend | Express.js, REST APIs |
+| Databases | MongoDB, PostgreSQL |
+| Cloud & DevOps | Vercel, Docker |
+| Productivity | VS Code, Git & GitHub |
+
+---
+
+### 🙌 Favourite Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — *Cory House*
+
+---
+
+📌 *This README is customizable — add/remove sections as you like!*
+
+---
+
+Would you like me to **add pinned projects with descriptions** (a nice dropdown preview for your best work)? Just say yes!
+::contentReference[oaicite:6]{index=6}
