@@ -1,5 +1,5 @@
 <!-- ========== HEADER ========== -->
-<h1 align="center">❄️ Hacker - ✨ Akshat Darshi ✨ - Developer ❄️</h1>
+<h1 align="center">❄️ ✨ Akshat Darshi ✨ - Developer ❄️</h1>
 
 <p align="center">
   <img width="200" height="200" src="https://media.tenor.com/hD56X-Q5AzMAAAAj/gopher-shaking.gif" alt="Dev GIF">
