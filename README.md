@@ -30,13 +30,12 @@
 
 <img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 
-🔥 <b> I am a Full Stack Developer & Systems Explorer </b> — building scalable apps & tooling. :contentReference[oaicite:0]{index=0}
+🔥 <b> I am a Full Stack Developer & Systems Explorer </b> — building scalable apps & tooling. 
+🥷 <b> Low-Level Enthusiast</b> — passionate about systems and security. 
 
-🥷 <b> Ethical Hacker & Low-Level Enthusiast</b> — passionate about systems and security. :contentReference[oaicite:1]{index=1}
+🛠️ <b> I enjoy learning & building with Go, Rust, TypeScript, and Python</b>.
 
-🛠️ <b> I enjoy learning & building with Go, Rust, TypeScript, and Python</b>. :contentReference[oaicite:2]{index=2}
-
-🔍 <b> I love automation, embedded systems, and software engineering</b> — always iterating & improving. :contentReference[oaicite:3]{index=3}
+🔍 <b> I love automation, embedded systems, and software engineering</b> — always iterating & improving. 
 
 Here is my [Resume](https://drive.google.com/file/d/1Uq3T3hDUdxfIOdb3BwA-RIBp6v2cDle4/view?usp=sharing)
 
