@@ -9,7 +9,7 @@
 
 <p align="center"> <b> I don't let my schooling interfere with my education </b></p>
 
-<p align="center"> Read all about me here: <a href="https://akshat-darshi-cseai-26.vercel.app/">Portfolio</a></p>
+<p align="center"> Read all about me here: <a href="https://milliondreams.vercel.app/">Portfolio</a></p>
 
 <p align="center"> GSoC'25 Project Page: <a href="">Vortex's Report Page</a></p>
 
