@@ -37,7 +37,7 @@
 
 🔍 <b> I love automation, embedded systems, and software engineering</b> — always iterating & improving. 
 
-Here is my [Resume](https://drive.google.com/file/d/1Uq3T3hDUdxfIOdb3BwA-RIBp6v2cDle4/view?usp=sharing)
+Here is my [Resume](https://drive.google.com/file/d/1UKvoWZqJZ_WRU8Q7KxeRXJoKw14IoU76/view?usp=sharing)
 
 ---
 
